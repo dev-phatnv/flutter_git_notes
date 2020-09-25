@@ -44,3 +44,12 @@
     ]
   );
   
+  6. FutureBuilder
+  7. FadeTransition
+  8. FloatingActionButton
+  9. PageView
+  10. Table (process tab2 => lecture 2)
+  11. SliverAppBar
+  12. SliverList & SliverGrid
+  14. FadeInImage
+  
