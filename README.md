@@ -32,3 +32,15 @@
     ]
   );
   
+  
+  Stack(
+    children: [
+      MyImageWidget(),
+      AnimatedOpacity(
+        opacity: _myOpacity,
+        duration: _myDuration,
+        child: MyGradientWidget(),
+      ),
+    ]
+  );
+  
