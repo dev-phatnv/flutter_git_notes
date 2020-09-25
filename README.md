@@ -52,4 +52,6 @@
   11. SliverAppBar
   12. SliverList & SliverGrid
   14. FadeInImage
+  15. StreamBuilder
+  16. InheritedModel
   
